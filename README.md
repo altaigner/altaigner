@@ -12,4 +12,4 @@ What I'm working on:
 
 🤝 Collaborating, learning, and contributing to real-world projects
 
-🚀 Laying the groundwork for a career at the intersection of quality and innovation
+🚀 Laying the groundwork for a career that blends quality and innovation
