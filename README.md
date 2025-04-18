@@ -1,6 +1,6 @@
 Hello! My name is Aigner.
 
-I'm a STEM professional transitioning into tech, leveraging my experience in product quality and workflow optimization. With a foundation in refining processes and testing protocols, I’m now honing technical skills that will allow me to transform creative ideas into impactful execution. 
+I'm a STEM professional transitioning into tech by leveraging my experience in product quality and workflow optimization. With a foundation in refining processes and testing protocols, I’m now honing technical skills that will allow me to transform creative ideas into impactful execution. 
 
 What I'm working on:
 
