@@ -6,7 +6,7 @@ What I'm working on:
 
 🪢 Combining my passions, hobbies, and career interests
 
-📚 Exploring test methodologies while implementing AI/ML principles
+📚 Exploring test methodologies & AI/ML principles
 
 🛠️ Building a toolkit for crafting polished, user-centered products
 
