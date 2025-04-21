@@ -1,15 +1,15 @@
-Hello! My name is Aigner.
+Hello! I'm Aigner.
 
-I'm a STEM professional transitioning into tech by leveraging my experience in product quality and workflow optimization. With a foundation in refining processes and testing protocols, I’m now honing technical skills that will allow me to transform creative ideas into impactful execution. 
+I'm a STEM professional transitioning into QA by leveraging my experience in product quality and process improvement. Building on a foundation of systems thinking and test development, I’m sharpening my technical skill set to transform creative ideas into tangible results. 
 
 What I'm working on:
 
 🪢 Combining my passions, hobbies, and career interests
 
-📚 Growing my skills in software testing, QA, and tech workflows
+📚 Exploring test methodologies while implementing AI/ML principles
 
-🛠️ Building a toolkit for creating polished, user-centered products
+🛠️ Building a toolkit for crafting polished, user-centered products
 
-🤝 Collaborating, learning, and contributing to real-world projects
+🤝 Collaborating on and contributing to impactful projects
 
 🚀 Laying the groundwork for a career that blends quality and innovation
