@@ -4,7 +4,7 @@ I'm a STEM professional pivoting into cybersecurity by leveraging my experience 
 
 What I'm working on:
 
-🪢 Combining my technical interests with practical operations
+🪢 Combining my interests with practical operations
 
 📚 Studying network security, SIEM fundamentals, and incident response frameworks
 
