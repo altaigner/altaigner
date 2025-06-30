@@ -1,15 +1,15 @@
 Hello! I'm Aigner.
 
-I'm a STEM professional transitioning into QA by leveraging my experience in product quality and process improvement. Building on a foundation of systems thinking and test development, I’m sharpening my technical skill set to transform creative ideas into tangible results. 
+I'm a STEM professional pivoting into cybersecurity by leveraging my experience in systems thinking, validation, and root-cause analysis. I’m developing my skills to tackle complex technical problems and secure mission-critical operations. With hands-on experience in testing and troubleshooting, I’m focusing on threat detection, incident response, and using AI to strengthen security workflows.
 
 What I'm working on:
 
-🪢 Combining my passions, hobbies, and career interests
+🪢 Combining my technical interests with practical operations
 
-📚 Exploring test methodologies & UX principles
+📚 Studying network security, SIEM fundamentals, and incident response frameworks
 
-🛠️ Building a toolkit for crafting polished, user-centered products
+🛠️ Building hands-on skills in log analysis, threat hunting, and behavioral analytics
 
-🤝 Collaborating on and contributing to impactful projects
+🤝 Contributing to meaningful projects and growing through collaboration
 
-🚀 Laying the groundwork for a career that blends quality and innovation
+🚀 Exploring how emerging technologies can strengthen threat monitoring and cyber defense
