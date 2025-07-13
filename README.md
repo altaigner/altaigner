@@ -1,15 +1,15 @@
 Hello! I'm Aigner.
 
-I'm a STEM professional pivoting into cybersecurity by leveraging my experience in systems thinking, validation, and root-cause analysis. I’m developing my skills to tackle complex technical problems and secure mission-critical operations. With hands-on experience in testing and troubleshooting, I’m focusing on threat detection, incident response, and using AI to strengthen security workflows.
+I'm a STEM professional pivoting into cybersecurity by leveraging my experience in systems thinking, validation, and root-cause analysis. I’m developing my skills to tackle complex technical problems and secure mission-critical operations. With hands-on experience in troubleshooting complex systems, I’m dedicated to advancing threat detection and incident response capabilities. 
 
 What I'm working on:
 
-🪢 Combining my interests with practical operations
+🪢 Bridging my personal interests and practical skills
 
-📚 Studying network security, SIEM fundamentals, and incident response frameworks
+📚 Diving deep into SIEM tools, incident management, and threat frameworks
 
-🛠️ Building hands-on skills in log analysis, threat hunting, and behavioral analytics
+🛠️ Gaining applied experience in behavioral analytics and forensic investigations
 
-🤝 Contributing to meaningful projects and growing through collaboration
+🤝 Collaborating on scenario-based team projects and cyber defense labs
 
-🚀 Exploring how emerging technologies can strengthen threat monitoring and cyber defense
+🚀 Exploring how emerging technologies can strengthen cyber defense techniques
