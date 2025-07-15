@@ -8,8 +8,8 @@ What I'm working on:
 
 📚 Diving deep into SIEM tools, incident management, and threat frameworks
 
-🛠️ Gaining applied experience in behavioral analytics and forensic investigations
+🫆 Gaining applied experience in behavioral analytics and forensic investigations
 
-🤝 Collaborating on scenario-based team projects and cyber defense labs
+🫱🏾‍🫲🏿 Collaborating on scenario-based team projects and cyber defense labs
 
 🚀 Exploring how emerging technologies can strengthen cyber defense techniques
