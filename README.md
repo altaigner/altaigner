@@ -13,3 +13,10 @@ What I'm working on:
 🫱🏾‍🫲🏿 Collaborating on scenario-based team projects and cyber defense labs
 
 🚀 Exploring how emerging technologies can strengthen cyber defense techniques
+
+
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aignerands)
+[![Portfolio Landing Page](https://img.shields.io/badge/Eportfolio-000?style=for-the-badge&logo=githubpages&logoColor=white)](https://YOURPORTFOLIOLINK.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alt.aigner)
