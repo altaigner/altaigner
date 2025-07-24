@@ -25,19 +25,19 @@ I'm a STEM professional pivoting into cybersecurity by leveraging my experience 
 ---
 
 <!-- Social buttons -->
+
 <p align="center">
 
-  <a href="https://linkedin.com/in/aignerands" target="_blank">
-   <a> <img src="https://img.shields.io/badge/LinkedIn-2A82BA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:30px;" />
-  </a>
-  &nbsp;&nbsp;
-
   <a href="https://YOURPORTFOLIOLINK.com" target="_blank">
-   <a> <img src="https://img.shields.io/badge/Eportfolio-B5B5B5?style=for-the-badge&logo=github&logoColor=white" alt="Eportfolio" style="height:30px;" />
-  </a>
+    <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=framer&logoColor=white" alt="ePortfolio" style="height:30px;" /></a>
 &nbsp;&nbsp;
+
+ <a href="https://linkedin.com/in/aignerands" target="_blank">
+   <img alt="LinkedIn" title="Let's Connect on Linkedin"
+    src="https://img.shields.io/badge/LinkedIn-5DB0B0?style=for-the-badge&logo=linkedin&logoColor=white" style="height:30px;" /></a>
+ &nbsp;&nbsp;
+
   <a href="https://instagram.com/alt.aigner" target="_blank">
-   <a> <img src="https://img.shields.io/badge/Instagram-5DB0B0?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="height:30px;" />
-  </a>
+    <img src="https://img.shields.io/badge/Instagram-0F4C5C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="height:30px;" /></a>
 
 </p>
