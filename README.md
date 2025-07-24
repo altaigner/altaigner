@@ -18,6 +18,9 @@ I'm a STEM professional pivoting into cybersecurity by leveraging my experience 
 #### *Tools & Technologies:*
 
 [![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" width="45" />
+
 
 ---
 
