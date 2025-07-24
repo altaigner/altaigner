@@ -18,7 +18,7 @@ What I'm working on:
 ##
 <p align="center">
 
-  <a href="https://linkedin.com/in/YOURUSERNAME" target="_blank">
+  <a href="https://linkedin.com/in/aignerands" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-2A82BA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:30px; vertical-align:middle;" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -28,7 +28,7 @@ What I'm working on:
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://instagram.com/YOURUSERNAME" target="_blank">
+  <a href="https://instagram.com/alt.aigner" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-5DB0B0?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="height:30px; vertical-align:middle;" />
   </a>
 
