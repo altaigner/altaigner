@@ -1,6 +1,6 @@
 Hello! I'm Aigner.
 
-I'm a STEM professional pivoting into cybersecurity by leveraging my experience in systems thinking, validation, and root-cause analysis. I’m developing my skills to tackle complex technical problems and secure mission-critical operations. With hands-on experience in troubleshooting complex systems, I’m dedicated to advancing threat detection and incident response capabilities. 
+I'm a STEM professional pivoting into cybersecurity by leveraging my experience in systems thinking, validation, and root-cause analysis. I’m developing my skills to tackle technical problems and secure mission-critical operations. With hands-on experience in troubleshooting complex systems, I’m dedicated to advancing threat detection and incident response capabilities. 
 
 What I'm working on:
 
