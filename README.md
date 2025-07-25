@@ -17,10 +17,21 @@ I'm a STEM professional pivoting into cybersecurity by leveraging my experience 
 
 #### *Tools & Technologies:*
 
-[![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" width="45" />
-
+<p align="left">
+<!Windows OS>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=windows" width="35"/><a>
+&nbsp;
+<!Ubuntu OS>
+<a href="https://ubuntu.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" width="35" /><a>
+ &nbsp;
+<!Oracle Virtual Box>
+<a href="https://www.virtualbox.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/VirtualBox_2024_Logo.svg" width="35" /><a>
+&nbsp;
+    
+</p>
 
 ---
 
