@@ -18,9 +18,15 @@ I'm a STEM professional pivoting into cybersecurity by leveraging my experience 
 #### *Tools & Technologies:*
 
 <p align="left">
+  
+
+<!Microsoft 365 for Business>
+<a href="https://www.microsoft.com/en-us/microsoft-365/microsoft-office">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_365_%282022%29.svg" width="30" /><a>
+&nbsp;
 <!Windows OS>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=windows" width="35"/><a>
+<a href="https://www.microsoft.com/en-us/windows?r=1">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" width="33"/><a>
 &nbsp;
 <!Ubuntu OS>
 <a href="https://ubuntu.com/" target="_blank">
@@ -30,6 +36,11 @@ I'm a STEM professional pivoting into cybersecurity by leveraging my experience 
 <a href="https://www.virtualbox.org/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/VirtualBox_2024_Logo.svg" width="35" /><a>
 &nbsp;
+<!Wireshark Packet Capture>
+<a href="https://www.wireshark.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" width="33" /><a>
+&nbsp;
+
     
 </p>
 
@@ -50,5 +61,7 @@ I'm a STEM professional pivoting into cybersecurity by leveraging my experience 
 
   <a href="https://instagram.com/alt.aigner" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-0F4C5C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="height:30px;" /></a>
+
+
 
 </p>
