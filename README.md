@@ -28,6 +28,10 @@ I'm a STEM professional pivoting into cybersecurity by leveraging my experience 
 <a href="https://www.microsoft.com/en-us/windows?r=1">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" width="33"/><a>
 &nbsp;
+<!Wireshark Packet Capture>
+<a href="https://www.wireshark.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" width="33" /><a>
+&nbsp;
 <!Ubuntu OS>
 <a href="https://ubuntu.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" width="35" /><a>
@@ -36,12 +40,11 @@ I'm a STEM professional pivoting into cybersecurity by leveraging my experience 
 <a href="https://www.virtualbox.org/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/VirtualBox_2024_Logo.svg" width="35" /><a>
 &nbsp;
-<!Wireshark Packet Capture>
-<a href="https://www.wireshark.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" width="33" /><a>
-&nbsp;
+<!Google Workspace>
+<a href="https://workspace.google.com/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg" width="33" /><a>
+&nbsp;  
 
-    
 </p>
 
 ---
