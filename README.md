@@ -1,6 +1,6 @@
 ## Intro to Aigner
 
-Behind every system, there’s a story about people and the ways they connect. Sometimes it's blatantly visible. Other times it's just beneath the surface. The way access is managed, threats are tracked, incidents are unraveled, and behaviors are mapped all reveal something about the patterns at play. As a STEM professional refining my skills for a pivot into cybersecurity, I chose to showcase projects that explore protection, privacy, processes, and people insights as key elements of the field. 
+Behind every system, there’s a story about people and the ways they connect. Sometimes it's blatantly visible. Other times it's just beneath the surface. The way access is managed, threats are tracked, incidents are unraveled, and behaviors are mapped all reveal something about the patterns at play. As a STEM professional refining my skills for a pivot into cybersecurity, I chose to showcase projects that explore protection, privacy, processes, and people insights as key elements of the field. I’m sharpening my approach to solving technical problems that impact real-world challenges. My experience troubleshooting in high-pressure environments has shaped how I think through risks, surface weak points, and respond with clarity. These projects demonstrate my evolving expertise in identifying risks and implementing solutions strenghten user security, improve system resilience, and support operational continuity. 
 
 ##
 #### *Currently Working On:*
